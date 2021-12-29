@@ -71,3 +71,4 @@ group :test do
   gem "webdrivers"
 end
 gem 'webpacker', '~> 5.0'
+gem 'font-awesome-sass', '~> 5.15.1'
